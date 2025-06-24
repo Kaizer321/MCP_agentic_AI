@@ -75,8 +75,8 @@ Ensure the following are installed:
 1. Clone the repository or place your files in a directory:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
-cd your_project
+git clone https://github.com/Kaizer321/MCP_agentic_AI.git
+cd MCP_agentic_AI
 ```
 
 2. Create a `.env` file in the root directory:
