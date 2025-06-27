@@ -29,4 +29,8 @@ A Streamlit-based AI assistant powered by Google Gemini, featuring integrated we
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create `.env` file with your API keys:
 
+
+---
+
+## Example 
 ![image](https://github.com/user-attachments/assets/872b119b-4637-4a1a-b3ac-8b1370737ebf)
